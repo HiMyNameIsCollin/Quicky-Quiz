@@ -145,7 +145,7 @@ const Game = ({questions, whosPlaying, handleGameRestart}) => {
 			questions.map((q, i) =>{
 				if(i === currentQuestion && currentQuestion < questions.length){
 					return(
-					<div id="title" className="cardContainer" >
+					<div id="title" className="cardContainer questionCard" >
 						<div className='card'>
 							<p style={{padding: '0px 24px'}}> {q.question}</p>
 						</div>

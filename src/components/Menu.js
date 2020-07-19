@@ -65,7 +65,7 @@ const Menu = ({whosPlaying, handleGameStart}) => {
 						setDiff(undefined)
 						setQuest(undefined)
 						showMenuConfirm(false)
-					}}><p>Go <br/> Back </p></div>
+					}}><p>Back </p></div>
 					<div id="confirmPlayers">
 						<p> Players </p>
 						{
@@ -105,7 +105,7 @@ const Menu = ({whosPlaying, handleGameStart}) => {
 									b.style.animation = 'slide-in-blurred-bottom 0.6s cubic-bezier(0.230, 1.000, 0.320, 1.000) both'
 								})
 								setRoute('categories')
-							}, 250);
+							}, 150);
 						} else {
 							setRoute('categories')
 						}
@@ -121,7 +121,7 @@ const Menu = ({whosPlaying, handleGameStart}) => {
 									b.style.animation = 'slide-in-blurred-bottom 0.6s cubic-bezier(0.230, 1.000, 0.320, 1.000) both'
 								})
 								setRoute('')
-							}, 250);
+							}, 150);
 						}
 					}} className="menu card"><p>Categories </p></div>
 				</div> 
@@ -138,7 +138,7 @@ const Menu = ({whosPlaying, handleGameStart}) => {
 									b.style.animation = 'slide-in-blurred-bottom 0.6s cubic-bezier(0.230, 1.000, 0.320, 1.000) both'
 								})
 								setRoute('difficulty')
-							}, 250);
+							}, 150);
 						} else {
 							setRoute('difficulty')
 						}
@@ -154,7 +154,7 @@ const Menu = ({whosPlaying, handleGameStart}) => {
 									b.style.animation = 'slide-in-blurred-bottom 0.6s cubic-bezier(0.230, 1.000, 0.320, 1.000) both'
 								})
 								setRoute('')
-							}, 250);
+							}, 150);
 						}
 					}} className="menu card"><p>Difficulty</p></div>
 				</div> 			
@@ -171,7 +171,7 @@ const Menu = ({whosPlaying, handleGameStart}) => {
 									b.style.animation = 'slide-in-blurred-bottom 0.6s cubic-bezier(0.230, 1.000, 0.320, 1.000) both'
 								})
 								setRoute('questions')
-							}, 250);
+							}, 150);
 						} else {
 							setRoute('questions')
 						}
@@ -187,9 +187,9 @@ const Menu = ({whosPlaying, handleGameStart}) => {
 									b.style.animation = 'slide-in-blurred-bottom 0.6s cubic-bezier(0.230, 1.000, 0.320, 1.000) both'
 								})
 								setRoute('')
-							}, 250);
+							}, 150);
 						}
-					}} className="menu card"><p> # </p></div>
+					}} className="menu card"><p> Number </p></div>
 				</div>	
 	
 				{

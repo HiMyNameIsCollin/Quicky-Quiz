@@ -20,7 +20,6 @@ const GameContainer = () => {
 		whosPlaying.forEach((player, i) =>{
 			if(player.name !== undefined){
 				namesSet++
-				console.log(player)
 			}
 		})
 		if(namesSet === whosPlaying.length && whosPlaying.length !== 0){
