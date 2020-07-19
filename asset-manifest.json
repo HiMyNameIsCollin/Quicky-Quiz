@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/quicky-quiz/static/css/main.8f3040aa.chunk.css",
-    "main.js": "/quicky-quiz/static/js/main.a2ca6334.chunk.js",
-    "main.js.map": "/quicky-quiz/static/js/main.a2ca6334.chunk.js.map",
-    "runtime-main.js": "/quicky-quiz/static/js/runtime-main.b7986641.js",
-    "runtime-main.js.map": "/quicky-quiz/static/js/runtime-main.b7986641.js.map",
-    "static/js/2.b432c4f1.chunk.js": "/quicky-quiz/static/js/2.b432c4f1.chunk.js",
-    "static/js/2.b432c4f1.chunk.js.map": "/quicky-quiz/static/js/2.b432c4f1.chunk.js.map",
-    "index.html": "/quicky-quiz/index.html",
-    "precache-manifest.eff723a1861602df83f2a2359d6cfaf7.js": "/quicky-quiz/precache-manifest.eff723a1861602df83f2a2359d6cfaf7.js",
-    "service-worker.js": "/quicky-quiz/service-worker.js",
-    "static/css/main.8f3040aa.chunk.css.map": "/quicky-quiz/static/css/main.8f3040aa.chunk.css.map",
-    "static/js/2.b432c4f1.chunk.js.LICENSE.txt": "/quicky-quiz/static/js/2.b432c4f1.chunk.js.LICENSE.txt",
-    "static/media/App.sass": "/quicky-quiz/static/media/cMark.eda8c9a5.png"
+    "main.css": "/Quicky-Quiz/static/css/main.ce0f5dc4.chunk.css",
+    "main.js": "/Quicky-Quiz/static/js/main.b5885284.chunk.js",
+    "main.js.map": "/Quicky-Quiz/static/js/main.b5885284.chunk.js.map",
+    "runtime-main.js": "/Quicky-Quiz/static/js/runtime-main.14e4e3da.js",
+    "runtime-main.js.map": "/Quicky-Quiz/static/js/runtime-main.14e4e3da.js.map",
+    "static/js/2.b432c4f1.chunk.js": "/Quicky-Quiz/static/js/2.b432c4f1.chunk.js",
+    "static/js/2.b432c4f1.chunk.js.map": "/Quicky-Quiz/static/js/2.b432c4f1.chunk.js.map",
+    "index.html": "/Quicky-Quiz/index.html",
+    "precache-manifest.8fe3935508718b706c6a1156a1242898.js": "/Quicky-Quiz/precache-manifest.8fe3935508718b706c6a1156a1242898.js",
+    "service-worker.js": "/Quicky-Quiz/service-worker.js",
+    "static/css/main.ce0f5dc4.chunk.css.map": "/Quicky-Quiz/static/css/main.ce0f5dc4.chunk.css.map",
+    "static/js/2.b432c4f1.chunk.js.LICENSE.txt": "/Quicky-Quiz/static/js/2.b432c4f1.chunk.js.LICENSE.txt",
+    "static/media/App.sass": "/Quicky-Quiz/static/media/cMark.eda8c9a5.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.b7986641.js",
+    "static/js/runtime-main.14e4e3da.js",
     "static/js/2.b432c4f1.chunk.js",
-    "static/css/main.8f3040aa.chunk.css",
-    "static/js/main.a2ca6334.chunk.js"
+    "static/css/main.ce0f5dc4.chunk.css",
+    "static/js/main.b5885284.chunk.js"
   ]
 }
