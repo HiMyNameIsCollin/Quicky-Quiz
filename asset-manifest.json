@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/quicky-quiz/static/css/main.8f3040aa.chunk.css",
+    "main.js": "/quicky-quiz/static/js/main.a2ca6334.chunk.js",
+    "main.js.map": "/quicky-quiz/static/js/main.a2ca6334.chunk.js.map",
+    "runtime-main.js": "/quicky-quiz/static/js/runtime-main.b7986641.js",
+    "runtime-main.js.map": "/quicky-quiz/static/js/runtime-main.b7986641.js.map",
+    "static/js/2.b432c4f1.chunk.js": "/quicky-quiz/static/js/2.b432c4f1.chunk.js",
+    "static/js/2.b432c4f1.chunk.js.map": "/quicky-quiz/static/js/2.b432c4f1.chunk.js.map",
+    "index.html": "/quicky-quiz/index.html",
+    "precache-manifest.eff723a1861602df83f2a2359d6cfaf7.js": "/quicky-quiz/precache-manifest.eff723a1861602df83f2a2359d6cfaf7.js",
+    "service-worker.js": "/quicky-quiz/service-worker.js",
+    "static/css/main.8f3040aa.chunk.css.map": "/quicky-quiz/static/css/main.8f3040aa.chunk.css.map",
+    "static/js/2.b432c4f1.chunk.js.LICENSE.txt": "/quicky-quiz/static/js/2.b432c4f1.chunk.js.LICENSE.txt",
+    "static/media/App.sass": "/quicky-quiz/static/media/cMark.eda8c9a5.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b7986641.js",
+    "static/js/2.b432c4f1.chunk.js",
+    "static/css/main.8f3040aa.chunk.css",
+    "static/js/main.a2ca6334.chunk.js"
+  ]
+}
