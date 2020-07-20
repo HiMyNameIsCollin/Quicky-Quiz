@@ -13,7 +13,7 @@ const Game = ({questions, whosPlaying, handleGameRestart}) => {
 
 	useMountEffect(() => {
 		let scores = []
-		whosPlaying.map((p, i) =>{
+		whosPlaying.forEach((p, i) =>{
 			scores.push(p)
 		})
 		setScore(scores)
@@ -41,7 +41,7 @@ const Game = ({questions, whosPlaying, handleGameRestart}) => {
 		let scores = [...score]
 		e.preventDefault()
 /*###########################ANIMATION####################################*/
-		answerRefs.forEach((r, i) => {
+/*		answerRefs.forEach((r, i) => {
 			if(r === ref){
 				r.style.animation = 'slit-out-vertical 0.5s ease-in both'
 				setTimeout(()=>{
@@ -55,7 +55,7 @@ const Game = ({questions, whosPlaying, handleGameRestart}) => {
 					r.style.animation = 'slide-in-blurred-bottom 0.6s cubic-bezier(0.230, 1.000, 0.320, 1.000) both'
 				}, 290);
 			}
-		})
+		})*/
 /*#############################HANDLE ANSWER##########################*/
 		if(questions[currentQuestion].correct_answer === e.target.innerText){
 			scores.forEach((player, i) => {

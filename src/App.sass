@@ -17,6 +17,7 @@ $alt-clr4: #e36414
   grid-template: .8fr 3fr / 1fr 2fr
   height: 100vh
   position: relative
+  max-width: 100vw
   overflow: hidden
   width: 100%
   z-index: 1
@@ -373,10 +374,10 @@ $alt-clr4: #e36414
   position: relative
   overflow: hidden
   width: 40%
-  &:hover
+/*  &:hover
     background: green
     border-radius: 10px
-    transform: scale(1.10)
+    transform: scale(1.10)*/
   div
     background: white
     display: flex
@@ -999,6 +1000,7 @@ $alt-clr4: #e36414
 
 
 @media only screen and (max-width: 600px) 
+  
   #nameEntryContainer
     grid-column: 1/3
 
@@ -1041,10 +1043,13 @@ $alt-clr4: #e36414
     font-size: 14px
     text-align: center
 
+
 @media only screen and (max-height: 600px)
   #goBack
     grid-row: 3/4
     height: 70%
+    p
+      padding-top: 5px
 
   #confirmOptions
     grid-row: 1/3
@@ -1068,6 +1073,9 @@ $alt-clr4: #e36414
     height: 50%
     
   #nameEntryContainer
+    grid-column: 1/3
+
+  #playerBtnContainer
     grid-column: 1/3
 
   .nameForm

@@ -24,22 +24,6 @@ const Menu = ({whosPlaying, handleGameStart}) => {
 
 	},[])
 
-	const handleSettingConfirm = (ref, choice) => {
-		if(route === 'category'){
-			if(cat === undefined){
-				setCat(choice)
-			}
-		}else if (route === 'difficulty'){
-			if(diff === undefined){
-				setDiff(choice)
-			}
-		}else if(route === 'questions'){
-			if(quest === undefined){
-				setQuest(choice)
-			}
-		}
-	}
-
 	const handleBtnAnimation = (ref) => {
 		menuBtnRefs.forEach((r, i) =>{
 			if(r === ref) {
