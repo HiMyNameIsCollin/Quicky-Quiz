@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/Quicky-Quiz/static/css/main.20aea7ce.chunk.css",
-    "main.js": "/Quicky-Quiz/static/js/main.a76f8fd6.chunk.js",
-    "main.js.map": "/Quicky-Quiz/static/js/main.a76f8fd6.chunk.js.map",
+    "main.css": "/Quicky-Quiz/static/css/main.f6a20726.chunk.css",
+    "main.js": "/Quicky-Quiz/static/js/main.ab150666.chunk.js",
+    "main.js.map": "/Quicky-Quiz/static/js/main.ab150666.chunk.js.map",
     "runtime-main.js": "/Quicky-Quiz/static/js/runtime-main.14e4e3da.js",
     "runtime-main.js.map": "/Quicky-Quiz/static/js/runtime-main.14e4e3da.js.map",
     "static/js/2.b432c4f1.chunk.js": "/Quicky-Quiz/static/js/2.b432c4f1.chunk.js",
     "static/js/2.b432c4f1.chunk.js.map": "/Quicky-Quiz/static/js/2.b432c4f1.chunk.js.map",
     "index.html": "/Quicky-Quiz/index.html",
-    "precache-manifest.f1b9afdd20b019ce2f365c1f30b0be71.js": "/Quicky-Quiz/precache-manifest.f1b9afdd20b019ce2f365c1f30b0be71.js",
+    "precache-manifest.45992064187d608907c83d75e2a0b2a6.js": "/Quicky-Quiz/precache-manifest.45992064187d608907c83d75e2a0b2a6.js",
     "service-worker.js": "/Quicky-Quiz/service-worker.js",
-    "static/css/main.20aea7ce.chunk.css.map": "/Quicky-Quiz/static/css/main.20aea7ce.chunk.css.map",
+    "static/css/main.f6a20726.chunk.css.map": "/Quicky-Quiz/static/css/main.f6a20726.chunk.css.map",
     "static/js/2.b432c4f1.chunk.js.LICENSE.txt": "/Quicky-Quiz/static/js/2.b432c4f1.chunk.js.LICENSE.txt",
     "static/media/App.sass": "/Quicky-Quiz/static/media/cMark.eda8c9a5.png"
   },
   "entrypoints": [
     "static/js/runtime-main.14e4e3da.js",
     "static/js/2.b432c4f1.chunk.js",
-    "static/css/main.20aea7ce.chunk.css",
-    "static/js/main.a76f8fd6.chunk.js"
+    "static/css/main.f6a20726.chunk.css",
+    "static/js/main.ab150666.chunk.js"
   ]
 }
