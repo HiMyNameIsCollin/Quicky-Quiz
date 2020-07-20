@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/Quicky-Quiz/precache-manifest.b288ea0a4c1197c0c37e87ba24dba7a5.js"
+  "/Quicky-Quiz/precache-manifest.22601b3eefac0b9969307faa28790970.js"
 );
 
 self.addEventListener('message', (event) => {

@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/Quicky-Quiz/static/css/main.f6a20726.chunk.css",
+    "main.css": "/Quicky-Quiz/static/css/main.d71b55b5.chunk.css",
     "main.js": "/Quicky-Quiz/static/js/main.c62d7cda.chunk.js",
     "main.js.map": "/Quicky-Quiz/static/js/main.c62d7cda.chunk.js.map",
     "runtime-main.js": "/Quicky-Quiz/static/js/runtime-main.14e4e3da.js",
@@ -8,16 +8,16 @@
     "static/js/2.b432c4f1.chunk.js": "/Quicky-Quiz/static/js/2.b432c4f1.chunk.js",
     "static/js/2.b432c4f1.chunk.js.map": "/Quicky-Quiz/static/js/2.b432c4f1.chunk.js.map",
     "index.html": "/Quicky-Quiz/index.html",
-    "precache-manifest.b288ea0a4c1197c0c37e87ba24dba7a5.js": "/Quicky-Quiz/precache-manifest.b288ea0a4c1197c0c37e87ba24dba7a5.js",
+    "precache-manifest.22601b3eefac0b9969307faa28790970.js": "/Quicky-Quiz/precache-manifest.22601b3eefac0b9969307faa28790970.js",
     "service-worker.js": "/Quicky-Quiz/service-worker.js",
-    "static/css/main.f6a20726.chunk.css.map": "/Quicky-Quiz/static/css/main.f6a20726.chunk.css.map",
+    "static/css/main.d71b55b5.chunk.css.map": "/Quicky-Quiz/static/css/main.d71b55b5.chunk.css.map",
     "static/js/2.b432c4f1.chunk.js.LICENSE.txt": "/Quicky-Quiz/static/js/2.b432c4f1.chunk.js.LICENSE.txt",
     "static/media/App.sass": "/Quicky-Quiz/static/media/cMark.eda8c9a5.png"
   },
   "entrypoints": [
     "static/js/runtime-main.14e4e3da.js",
     "static/js/2.b432c4f1.chunk.js",
-    "static/css/main.f6a20726.chunk.css",
+    "static/css/main.d71b55b5.chunk.css",
     "static/js/main.c62d7cda.chunk.js"
   ]
 }
