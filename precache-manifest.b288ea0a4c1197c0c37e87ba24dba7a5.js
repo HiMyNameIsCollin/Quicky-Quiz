@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "e0fbb859c5b4732ea1e919aef0c6acdd",
+    "revision": "d49e853283945189bced03fc435a53c5",
     "url": "/Quicky-Quiz/index.html"
   },
   {
-    "revision": "8a13c08309d858fcc7c0",
+    "revision": "faed589e384ea137f240",
     "url": "/Quicky-Quiz/static/css/main.f6a20726.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Quicky-Quiz/static/js/2.b432c4f1.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "8a13c08309d858fcc7c0",
-    "url": "/Quicky-Quiz/static/js/main.ab150666.chunk.js"
+    "revision": "faed589e384ea137f240",
+    "url": "/Quicky-Quiz/static/js/main.c62d7cda.chunk.js"
   },
   {
     "revision": "1a84e45cdd472d66721f",
