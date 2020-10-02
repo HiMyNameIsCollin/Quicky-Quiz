@@ -8,6 +8,7 @@ $alt-clr4: #e36414
   margin: 0
   padding: 0
   border-box: 0
+  font-family: Verdana, Geneva, sans-serif 
 
 #gameContainer
   background-image: url('./assets/brainBackground.png')
@@ -477,8 +478,8 @@ $alt-clr4: #e36414
   position: relative
   width: 100%
   z-index: 1
-  p
-    font-size: 200%
+  h1
+    font-weight: 700
     letter-spacing: 2px
     margin: auto
 
@@ -1005,7 +1006,8 @@ $alt-clr4: #e36414
 
   .menu
     p 
-      font-size: 18px
+      font-size: 0.9em
+      font-weight: 700
 
   #menuBtnContainer
     padding: 0.2em
@@ -1042,6 +1044,7 @@ $alt-clr4: #e36414
 
 @media only screen and (max-height: 600px)
   #goBack
+    grid-column: 1/2
     grid-row: 3/4
     height: 70%
     p

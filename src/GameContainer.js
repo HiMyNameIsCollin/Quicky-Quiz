@@ -157,7 +157,7 @@ const GameContainer = () => {
 			<div id="titleContainer">
 				<div id="title" className="cardContainer">
 					<div className='card'>
-						<p> Quicky Quiz </p>
+						<h1> Quicky Quiz </h1>
 					</div>
 			</div>
 			</div>
